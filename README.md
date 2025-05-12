@@ -1,0 +1,3 @@
+- Yes, I know it's incredibly scuffed.
+- This took an ungodly amount of time and help
+- I don't plan to ever work with gui ever again lol
